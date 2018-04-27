@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.6.0)
+  - DLRadioButton (1.4.11)
+  - ObjectMapper (3.1.0)
+  - PromiseKit/Alamofire (4.5.2):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (4.5.2)
+  - SideMenu (3.1.5)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - DLRadioButton (~> 1.4)
+  - ObjectMapper (~> 3.1)
+  - PromiseKit/Alamofire (~> 4.0)
+  - SideMenu
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  DLRadioButton: 0d04b8259e7bfd886571a1e9173c73fee7118f50
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  PromiseKit: 743e497a5f505a470d3bbbf4ce0663c1268af0a4
+  SideMenu: 47dbf9e4d878062d8994aed43f6e4bf6c1fea30b
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: a99d99df0fc2e5a07439c0d60a469f878c3834cb
+
+COCOAPODS: 1.4.0
